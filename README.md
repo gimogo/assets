@@ -2,6 +2,8 @@
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
+# BEP2 BEP20 ERC20
+
 ## Overview
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
